@@ -2,7 +2,17 @@
 
 # GAN: Generative Adversarial Networks
 
-* Generative Adversarial Networks - Goodfellow - []()
+## GAN Basics
+
+* Generative Adversarial Networks - 2014 [paper](https://arxiv.org/pdf/1406.2661.pdf)
+
+* 초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets - 유재준
+    * #1 [blog](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
+    * #2 [blog](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
+    * PR12 GANs - Jaejun Yoo [youtube](https://www.youtube.com/watch?v=kLDuxRtxGD8)
+    * [PR12] intro. to gans - jaejun yoo [SlideShaer](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
+
+* pytorch-generative-adversarial-networks - devnag [github](https://github.com/devnag/pytorch-generative-adversarial-networks/blob/master/gan_pytorch.py)
 
 ## DCGAN
 
