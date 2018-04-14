@@ -4,10 +4,16 @@
 
 ## Basics
 
+강화학습은 난이도가 높습니다.
+
+* 강화학습 첫걸음 - 아서 줄리아니 - 송교석 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B9929859785) **+
+
 * Reinforcement Learning - SanghyukChun
   * Introduction [blog](http://sanghyukchun.github.io/76/)
   * Multi-armed Bandit [blog](http://sanghyukchun.github.io/96/)
-    
+
+* 모두를 위한 RL 강좌 - 김성훈 [youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+
 
 ## Reinforcement Learning
 

@@ -17,4 +17,4 @@
 
 * Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression - 2017 [paper](https://arxiv.org/pdf/1703.07834.pdf)
 
-* 3D Face Reconstruction with Geometry Details from a Single Image - 2017 [paper](https://arxiv.org/pdf/1702.05619.pdf)
+* 3D Face Reconstruction with Geometry Details from a Single Image - 2017 [paper](https://arxiv.org/pdf/1702.05619.pdf) ***

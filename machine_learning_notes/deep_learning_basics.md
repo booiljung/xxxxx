@@ -5,22 +5,13 @@
 
 ## Best books
 
-* 처음 배우는 딥러닝 수학 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
+주관적인 난이도에 따라 배치 하였습니다.
 
-* 밑바닥부터 시작하는 딥러닝 - 사이토 고키 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)
+* 처음 배우는 딥러닝 수학 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448) ****
 
-* Deep Learing - Ian Goodfellow, Yoshua Bengio, Aaron Courville [home](http://www.deeplearningbook.org/)
+* 밑바닥부터 시작하는 딥러닝 - 사이토 고키 [book:한빛미디어](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198) ****
 
-* Rosenblatt proposed perceptrons - Rosenblatt - 1958
-
-* Neocognitron - Neocognitron - 1980
-
-* Hopfield network, SOM - Kohonen - 1982
-
-* Multilayer perceptrons and backpropagation - Rumelhart et al. - 1986
-
-* Sparse coding - Field - 1993
-
+* Deep Learing - Ian Goodfellow, Yoshua Bengio, Aaron Courville [home](http://www.deeplearningbook.org/) ***
 
 
 ## Articles
@@ -35,6 +26,8 @@
 * The Basic Principles in Deep Neural Networks - SanghyukChun [blog](http://sanghyukchun.github.io/54/)
 
 * Deep Learning (RBM, DBN, CNN) - SanghyukChun [blog](http://sanghyukchun.github.io/75/)
+
+* 모두를 위한 딥러닝 강좌 시즌1 - 김성훈 [youtube playlist](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 
 
 ## Architectures

@@ -1,6 +1,20 @@
 [Top](index.md)
 
-# CNN
+# CNN: Convolutional Neural Networks
+
+## CNN Basics
+
+* CNN - 라온피플
+  * [blog #1](https://laonple.blog.me/220811172205)
+  * [blog #2](https://laonple.blog.me/220594258301)
+  * [blog #3](https://laonple.blog.me/220608018546)
+  * [blog #4](https://laonple.blog.me/220623406512)
+  * [blog #5](https://laonple.blog.me/220624485850)
+
+* CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University [youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+
+## CNN Basic Papers
 
 * Backpropagation Applied to Handwritten Zip Code - 1989 [paper](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
 
@@ -9,13 +23,6 @@
 * Hierarchical Neural Networks for Image Interpretation - 2003 book [paper](https://www.ais.uni-bonn.de/books/LNCS2766.pdf)
 
 * Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis - 2003 [paper](https://pdfs.semanticscholar.org/7b1c/c19dec9289c66e7ab45e80e8c42273509ab6.pdf)
-
-* CNN - 라온피플
-  * [blog #1](https://laonple.blog.me/220811172205)
-  * [blog #2](https://laonple.blog.me/220594258301)
-  * [blog #3](https://laonple.blog.me/220608018546)
-  * [blog #4](https://laonple.blog.me/220623406512)
-  * [blog #5](https://laonple.blog.me/220624485850)
 
 
 
