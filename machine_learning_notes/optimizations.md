@@ -55,7 +55,6 @@ problem in high-dimensional non-convex optimization - 2015 [paper](http://papers
 * Introduction to Semidefinite Programming [book](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/readings/MIT6_251JF09_SDP.pdf)
 
 
-
 ## Least Square Method
 
 * 여러가지 이름.
@@ -81,6 +80,13 @@ problem in high-dimensional non-convex optimization - 2015 [paper](http://papers
 * 함수최적화 기법 정리 (Levenberg–Marquardt 방법 등) - 다크 프로그래머 [blog](http://darkpgmr.tistory.com/142)
 
 * 대수적 에러와 기하학적 에러(Algebraic & Geometric Error) - 다크 프로그래머 (blog)[http://darkpgmr.tistory.com/143?category=761008]
+
+
+## ALS
+
+* SGD vs. ALS on solving BiasedMF(SVD) - 수원혼모노이현성 [blog]()
+https://ita9naiwa.github.io/recommender%20systems/2017/11/25/SGD-versus-ALS.html
+
 
 ## Coordinat Descent
 

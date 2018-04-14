@@ -136,12 +136,6 @@ VGGNet - 라온피플
   * [blog #5 ResNet](https://laonple.blog.me/220782324594)
 
 
-
-## Image To Image
-
-* Image-to-Image Translation with Conditional Adversarial Networks - 2016 [paper](https://arxiv.org/pdf/1611.07004.pdf)
-
-
 ## Auxiliary Classifier
 
 * Deeply-Supervised Nets - 2014 [paper](https://arxiv.org/pdf/1409.5185.pdf)

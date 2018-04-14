@@ -1,13 +1,10 @@
 [Top](index.md)
 
-# mlnotes: Machine Learning Notes
-
-mlnotes is collections and organized knowledgement about machine learning.
-
 ## Contents
 
 * [Basic Theory](basic_theory.md)
 * [Algorithms](algorithms.md)
+* [Probablity and Statistics](probability_and_statistics.md)
 * [Machine Learning Basics](machine_learning_basics.md)
 * [Deep Learning Basics](deep_learning_basics.md)
 * [Cost Funcitons](cost_functions.md)
