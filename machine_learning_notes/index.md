@@ -1,6 +1,6 @@
-[Top](index.md)
+[Top](../index.md)
 
-## Contents
+# Machine Learning Notes
 
 * [Basic Theory](basic_theory.md)
 * [Algorithms](algorithms.md)
