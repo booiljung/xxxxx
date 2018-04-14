@@ -4,6 +4,7 @@
 
 * [Basic Theory](basic_theory.md)
 * [Algorithms](algorithms.md)
+* [Linear Angebra](linear_algebra.md)
 * [Probablity and Statistics](probability_and_statistics.md)
 * [Machine Learning Basics](machine_learning_basics.md)
 * [Deep Learning Basics](deep_learning_basics.md)
