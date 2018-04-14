@@ -26,7 +26,9 @@
 
 
 
+# Mathematics
 
+* Theoretical Computer Science Cheat Sheet (수학 공식 치트시트) [pdf](http://www.tug.org/texshowcase/cheat.pdf)
 
 
 
