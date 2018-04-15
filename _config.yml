@@ -1,7 +1,7 @@
-markdown: kramdown
 title: \home\booiljung\hack\hack\blog> $ _
 description: SOFTWARE | GAMES & GRAPHICS | MACHINE LEARNING | COMPUTER VISION 에 대한 기술을 기록하고 공유합니다.
 show_downloads: false
 google_analytics:
+markdown: kramdown
 theme: jekyll-theme-hacker
 encoding: utf-8
