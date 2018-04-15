@@ -4,7 +4,10 @@
 * [Machine Learning Notes](./machine_learning_notes/index.md)
 
 
-수식 $\sum_{n=0}^k$ 을 테스트 합니다.
+시그마 기호 \\( \sum_{n=0}^k \\) 입니다.
 
-$$\sum_{n=0}^k$$
+\\[
+\sum_{n=0}^k
+\\]
 
+이산일까요? 연속일까요?
