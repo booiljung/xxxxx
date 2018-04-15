@@ -60,7 +60,7 @@
 
 
 
-## NIN
+## NIN: Network In Network
 
 * NIN - Network In Network - 2014 [paper](https://arxiv.org/pdf/1312.4400.pdf)
 
