@@ -13,3 +13,7 @@
 
 * Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation - 2014 [paper](https://arxiv.org/pdf/1406.1078.pdf)
 * Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling - 2014 [paper](http://pdfs.semanticscholar.org/2d9e/3f53fcdb548b0b3c4d4efb197f164fe0c381.pdf)
+
+## LSTM-Regiression
+
+* Sequence prediction using recurrent neural networks(LSTM) with TensorFlow - Mourad Mourafiq - [blog](http://mourafiq.com/2016/05/15/predicting-sequences-using-rnn-in-tensorflow.html)
