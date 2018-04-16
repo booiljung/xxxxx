@@ -22,7 +22,7 @@
 
 * PR12 딥러닝 논문읽기 모임 [youtube playlist](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
-
+* Critian Ruder [blog](http://ruder.io/index.html#open)
 
 
 

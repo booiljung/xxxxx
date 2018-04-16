@@ -6,6 +6,7 @@
 * [Algorithms](algorithms.md)
 * [Linear Angebra](linear_algebra.md)
 * [Probablity and Statistics](probability_and_statistics.md)
+* [Numerical Methods](numerical_methods.md)
 * [Machine Learning Basics](machine_learning_basics.md)
 * [Deep Learning Basics](deep_learning_basics.md)
 * [Cost Funcitons](cost_functions.md)

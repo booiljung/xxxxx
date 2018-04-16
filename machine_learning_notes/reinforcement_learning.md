@@ -14,6 +14,7 @@
 
 * 모두를 위한 RL 강좌 - 김성훈 [youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
+* Boltzmann machines - Ackley et al. - 1985
 
 ## Reinforcement Learning
 
