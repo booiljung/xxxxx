@@ -3,6 +3,5 @@
 # Signal Processing
 
 [## Convolutions](convolutions.md)
-
-[## Deconvolutional Networks](deconvolutions_networks.md)
+[## Deconvolutional Networks](deconvolutional_networks.md)
 

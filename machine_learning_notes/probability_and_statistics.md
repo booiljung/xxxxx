@@ -71,8 +71,6 @@
 * Binomial sign test - leerider [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=2)
 * 적합도(Goodness-of-fit) 검정 - leerider [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=59&currentPage=1)
 
-
-
 ### Statistics Advanced
 
 * 모형추정에 대해서 - leerider [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=60&currentPage=15)
@@ -90,7 +88,6 @@
 * 주성분분석(Principal component analysis) - leerider [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=60&currentPage=4)
 * 요인분석(Factor analysis) - leerider [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=60&currentPage=3)
 * 그래프 템플릿(Graph template) - leerider [blog](http://blog.naver.com/PostList.nhn?from=postList&blogId=leerider&categoryNo=60&currentPage=1)
-
 
 ### Higher Statistics
 
