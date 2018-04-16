@@ -6,6 +6,8 @@
 
 * Recurrent Neural Network Regularization - 2015 [paper](https://arxiv.org/pdf/1409.2329.pdf)
 * Recurrent Neural Network Regularization - SanghyukChun [blog](http://sanghyukchun.github.io/89/)
+* Classifying Names with a Character-Level RNN - PyTorch Tutorial [official site](http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+* Generating Names with a Character-Level RNN - PyTorch Tutorial [official site](http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
 
 ## LSTM
 

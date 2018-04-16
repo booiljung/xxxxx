@@ -3,6 +3,7 @@
 # GAN: Generative Adversarial Networks
 
 ## GAN Basics
+
 * Generative Adversarial Networks - Ian J. Goodfellow,  Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
 Sherjil Ozair, Aaron Courville, Yoshua Bengio - 2014 [paper](https://arxiv.org/pdf/1406.2661.pdf)
 * 초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets #1 - 유재준 [blog](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
@@ -11,6 +12,8 @@ Sherjil Ozair, Aaron Courville, Yoshua Bengio - 2014 [paper](https://arxiv.org/p
 * PR12 GANs - Jaejun Yoo [youtube](https://www.youtube.com/watch?v=kLDuxRtxGD8)
 * [PR12] intro. to gans - jaejun yoo [SlideShaer](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
 * pytorch-generative-adversarial-networks - devnag [github](https://github.com/devnag/pytorch-generative-adversarial-networks/blob/master/gan_pytorch.py)
+* GAN using PyTorch for Goodfellow paper [github](https://github.com/devnag/pytorch-generative-adversarial-networks)
+* GAN using PyTorch for MNIST [github](https://github.com/prcastro/pytorch-gan)
 
 ## DCGAN
 

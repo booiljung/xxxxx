@@ -7,6 +7,7 @@
 * Batch Normalization #1 - 라온피플 [blog](https://laonple.blog.me/220808903260)
 * Batch Normalization #2 - 라온피플 [blog](https://laonple.blog.me/220811172205)
 * Batch Normalization - SanghyukChun [blog](http://sanghyukchun.github.io/88/)
+* Batch Normalization 설명 및 구현 - Beomsu Kim [blog](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - 2015 [paper](https://arxiv.org/pdf/1502.03167.pdf)
 
 ## Dropout
