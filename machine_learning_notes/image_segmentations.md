@@ -39,7 +39,9 @@
 
 ## U-Net
 
-* U-Net: Convolutional Networks for Biomedical Image Segmentation - 2015 [paper](https://arxiv.org/pdf/1505.04597.pdf)
+* U-Net: Convolutional Networks for Biomedical Image Segmentation - Olaf Ronneberger, Philipp Fischer, Thomas Brox - 2015 [paper](https://arxiv.org/pdf/1505.04597.pdf)
+* Attention U-Net: Learning Where to Look for the Pancreas - Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee, Mattias Heinrich, Kazunari Misawa, Kensaku Mori, Steven McDonagh, Nils Y Hammerla, Bernhard Kainz, Ben Glocker, Daniel Rueckert - 2016 [paper](https://arxiv.org/pdf/1804.03999.pdf)
+* [논문 소개] Attention U-Net: Learning Where to Look for the Pancreas - jiwoopapa [blog](https://steemit.com/deeplearning/@jiwoopapa/attention-u-net-learning-where-to-look-for-the-pancreas)
 
 ## ReSeg
 
