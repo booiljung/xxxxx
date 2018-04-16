@@ -1,6 +1,6 @@
 [Top](index.md)
 
-# Review Memo: [Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression](https://arxiv.org/pdf/1703.07834.pdf)
+# Review Memo: [Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression](https://arxiv.org/abs/1703.07834)
 
 ## Authors:
 * Aaron S. Jackson

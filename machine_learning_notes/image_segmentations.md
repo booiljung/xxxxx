@@ -28,24 +28,24 @@
 
 ## FCN
 
-* Fully Convolutional Networks for Semantic Segmentation - 2015 [paper](https://arxiv.org/pdf/1411.4038.pdf)
+* Fully Convolutional Networks for Semantic Segmentation - 2015 [paper](https://arxiv.org/abs/1411.4038)
 * FCN #1 - 라온피플 [blog #1](https://laonple.blog.me/220958109081)
 * FCN #2 - 라온피플 [blog #2](https://laonple.blog.me/220964957738)
 
 ## ReNet
 
-* ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks - 2015 [paper](https://arxiv.org/pdf/1505.00393.pdf)
+* ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks - 2015 [paper](https://arxiv.org/abs/1505.00393)
 * ReNet - 라온피플 [blog](https://laonple.blog.me/221035153295)
 
 ## U-Net
 
-* U-Net: Convolutional Networks for Biomedical Image Segmentation - Olaf Ronneberger, Philipp Fischer, Thomas Brox - 2015 [paper](https://arxiv.org/pdf/1505.04597.pdf)
-* Attention U-Net: Learning Where to Look for the Pancreas - Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee, Mattias Heinrich, Kazunari Misawa, Kensaku Mori, Steven McDonagh, Nils Y Hammerla, Bernhard Kainz, Ben Glocker, Daniel Rueckert - 2016 [paper](https://arxiv.org/pdf/1804.03999.pdf)
+* U-Net: Convolutional Networks for Biomedical Image Segmentation - Olaf Ronneberger, Philipp Fischer, Thomas Brox - 2015 [paper](https://arxiv.org/abs/1505.04597)
+* Attention U-Net: Learning Where to Look for the Pancreas - Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee, Mattias Heinrich, Kazunari Misawa, Kensaku Mori, Steven McDonagh, Nils Y Hammerla, Bernhard Kainz, Ben Glocker, Daniel Rueckert - 2016 [paper](https://arxiv.org/abs/1804.03999)
 * [논문 소개] Attention U-Net: Learning Where to Look for the Pancreas - jiwoopapa [blog](https://steemit.com/deeplearning/@jiwoopapa/attention-u-net-learning-where-to-look-for-the-pancreas)
 
 ## ReSeg
 
-* ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation - 2016 [paper](https://arxiv.org/pdf/1511.07053.pdf)
+* ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation - 2016 [paper](https://arxiv.org/abs/1511.07053)
 * L-RNN - Layer Recurrent Neural Networks - 2017 [paper](https://openreview.net/pdf?id=rJJRDvcex)
 * ReSeg - 라온피플 [#1](https://laonple.blog.me/221037627532)
 
@@ -60,9 +60,9 @@
 * Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials - 2012 [paper](https://arxiv.org/abs/1210.5644)
 * Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials [paper](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide15.pdf)
 * An Introduction to Conditional Random Fields [paper](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
-* Learning Deconvolution Network for Semantic Segmentation - 2015 [paper](https://arxiv.org/pdf/1505.04366.pdf)
-* Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016 [paper](https://arxiv.org/pdf/1412.7062.pdf)
-* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/pdf/1606.00915.pdf)
+* Learning Deconvolution Network for Semantic Segmentation - 2015 [paper](https://arxiv.org/abs/1505.04366)
+* Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016 [paper](https://arxiv.org/abs/1412.7062)
+* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/abs/1606.00915)
 * CRF - #2 DeepLab - 라온피플 [blog](https://laonple.blog.me/221017461464)
 * DeepLab - 라온피플 [blog](https://laonple.blog.me/221000648527)
 

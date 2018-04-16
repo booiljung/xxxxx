@@ -4,12 +4,12 @@
 
 ## 3D Correspondence
 
-* Learning Dense Correspondence via 3D-guided Cycle Consistency - 2016 [paper](https://arxiv.org/pdf/1604.05383.pdf)
+* Learning Dense Correspondence via 3D-guided Cycle Consistency - 2016 [paper](https://arxiv.org/abs/1604.05383)
 
 
 ## 3D Blending
 
-* Fast Blended Transformations for Partial Shape Registration - 2016 [paper](https://arxiv.org/pdf/1609.07738v1.pdf)
+* Fast Blended Transformations for Partial Shape Registration - 2016 [paper](https://arxiv.org/abs/1609.07738v1)
 
 ## 3D Morphing
 
@@ -30,8 +30,8 @@
   * Solved many problems.
 * Improving 3D Facial Action Unit Detection with Intrinsic Normalization - 2015 [paper](http://www.cs.technion.ac.il/~ron/PAPERS/Conference/YudinSelaWetzlerKimmel-BMVC2015.pdf)
 * Learning Detailed Face Reconstruction from a Single Image - 2016 [paper](https://homes.cs.washington.edu/~royorel/files/learning-detailed-face_cvpr.pdf)
-* 3D Face Reconstruction by Learning from Synthetic Data - 2016 [paper](https://arxiv.org/pdf/1609.04387.pdf)
-* 3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing Photo-realistic Face Images - 2017 [paper](https://www.arxiv-vanity.com/papers/1708.00980/)
-* Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression - 2017 [paper](https://arxiv.org/pdf/1703.07834.pdf)
-* 3D Face Reconstruction with Geometry Details from a Single Image - 2017 [paper](https://arxiv.org/pdf/1702.05619.pdf) ***
-* Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation - 2017 [paper](https://arxiv.org/pdf/1703.10131.pdf), [github](https://github.com/matansel/pix2vertex)
+* 3D Face Reconstruction by Learning from Synthetic Data - 2016 [paper](https://arxiv.org/abs/1609.04387)
+* 3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing Photo-realistic Face Images - 2017 [paper](https://www.arxiv-vanity.com/papers/1708.00980)
+* Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression - 2017 [paper](https://arxiv.org/abs/1703.07834)
+* 3D Face Reconstruction with Geometry Details from a Single Image - 2017 [paper](https://arxiv.org/abs/1702.05619) ***
+* Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation - 2017 [paper](https://arxiv.org/abs/1703.10131), [github](https://github.com/matansel/pix2vertex)

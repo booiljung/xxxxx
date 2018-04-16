@@ -16,7 +16,7 @@
 ## Unsupervised Pre-training
 
 * Why Does Unsupervised Pre-training Help Deep Learning? - 2010 [paper](http://www.jmlr.org/papers/volume11/erhan10a/erhan10a.pdf)
-* An Analysis of Unsupervised Pre-training in Light of Recent Advances - 2014 [paper](https://arxiv.org/pdf/1412.6597.pdf)
+* An Analysis of Unsupervised Pre-training in Light of Recent Advances - 2014 [paper](https://arxiv.org/pdf/1412.6597)
 
 ## Denoising Auto-Encoder
 
@@ -33,7 +33,7 @@
 
 ### Sparse Auto-Encoders
 
-* k-Sparse Auto-Encoders - 2013 [paper](https://arxiv.org/pdf/1312.5663.pdf)
+* k-Sparse Auto-Encoders - 2013 [paper](https://arxiv.org/pdf/1312.5663)
 * Auto-Encoder - 라온피플 #5 Sparse Auto-Encoder [blog](https://laonple.blog.me/220943887634)
 
 

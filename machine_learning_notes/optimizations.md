@@ -79,5 +79,5 @@ https://ita9naiwa.github.io/recommender%20systems/2017/11/25/SGD-versus-ALS.html
 
 ### Bayesian optimization
 
-* Practical Bayesian optimization of machine learning algorithms - 2012 [paper](https://arxiv.org/pdf/1206.2944.pdf)
+* Practical Bayesian optimization of machine learning algorithms - 2012 [paper](https://arxiv.org/abs/1206.2944)
 * Practical Bayesian Optimization of Machine Learning Algorithms - SanghyukChun [blog](http://sanghyukchun.github.io/99/) ***

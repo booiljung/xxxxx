@@ -8,6 +8,7 @@
 * Natural language understanding (almost) from scratch [blog](https://blog.acolyer.org/2016/07/04/natural-language-understanding-almost-from-scratch/)
 * On word embeddings #1 - Sebastian Ruder [blog](http://ruder.io/word-embeddings-1/index.html)
 * On word embeddings #3 - Sebastian Ruder [blog](http://ruder.io/secret-word2vec/)
+* Word Embeddings: Encoding Lexical Semantics - PyTorch Tutorial [official site](http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html)
 * Deep Learning, NLP, and Representations - Christopher Olah [blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 * CS224n: Natural Language Processing with Deep Learning [Standford University online lectures](http://web.stanford.edu/class/cs224n/syllabus.html)
 * SLP2: Speech and Language Processing - Dan Jurafsky and James H. Martin - 2nd [pdf](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
