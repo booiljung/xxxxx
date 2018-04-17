@@ -3,9 +3,30 @@
 # Auto-Encoders
 
 * Auto-Encoder - 1986
-* Auto-Encoder - 라온피플
-  * #1 [blog](https://laonple.blog.me/220850892431)
-  * #2 [blog](https://laonple.blog.me/220884698923)
+* Auto-Encoder #1 - 라온피플 [blog](https://laonple.blog.me/220850892431)
+* Auto-Encoder #2 - 라온피플 [blog](https://laonple.blog.me/220884698923)
+* Auto Encoder 에 대하여 : Auto Encoder 의 개념과 사용법, 그리고 Regularization - Jayne.who [blog](http://jaynewho.com/post/9)
+* Introduction Auto-Encoder [WikiDocs](https://wikidocs.net/3413)
+* UFLDL Tutorial – 1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity - Solaris [blog](http://solarisailab.com/archives/113)
+* UFLDL Tutorial – 2. 오토인코더(Sparse Autoencoder) 2 – Visualizing a Trained Autoencoder - Solaris [blog](http://solarisailab.com/archives/272)
+
+## Varational Auto-Encoder
+
+* Auto-Encoding Variational Bayes - Diederik P Kingma, Max Welling - 2013 [paper](https://arxiv.org/abs/1312.6114)
+* Tutorial on Variational Autoencoders - Carl Doersch - 2016 [paper](https://arxiv.org/abs/1606.05908)
+* 알기쉬운 Variational Auto-encoder - 김홍배 [slide](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
+* What is variational autoencoder? - NolSigan [blog](http://nolsigan.com/blog/what-is-variational-autoencoder/)
+* 초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) #1 - Jaejun Yoo [blog](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
+* 초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) #2 - Jaejun Yoo [blog](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
+* Variational Autoencoder를 여러 가지 각도에서 이해하기 (Understanding Variational Autoencoder from Various Perspectives) - Sangwoong Yoon [slide](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
+* Auto-Encoding Variational Bayes - Jamie Kang [blog](https://jamiekang.github.io/2017/05/21/auto-encoding-variational-bayes/)
+* Variational Auto-encoder for MNIST - Tensorflow, Python - kvfrans [blog](https://github.com/kvfrans/variational-autoencoder)
+* Variational Auto-Encoder for MNIST - Tensorflow, Python - hwalsuklee [blog](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
+* AutoEncoder and VAE - PyTorch, Python - SherlockLiao [blog](https://github.com/SherlockLiao/pytorch-beginner/tree/master/08-AutoEncoder)
+
+## Stacked Auto-Encoder
+
+* 텐서플로우(TensorFlow)를 이용해서 MNIST 숫자 분류를 위한 Stacked Autoencoders 구현해보기 - Solaris [blog](http://solarisailab.com/archives/1182)
 
 ## Greedy Layer-Wise Training
 

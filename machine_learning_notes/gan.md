@@ -2,7 +2,7 @@
 
 # GAN: Generative Adversarial Networks
 
-## GAN Basics
+## GAN Goodfellow
 
 * Generative Adversarial Networks - Ian J. Goodfellow,  Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
 Sherjil Ozair, Aaron Courville, Yoshua Bengio - 2014 [paper](https://arxiv.org/abs/1406.2661)
@@ -14,6 +14,7 @@ Sherjil Ozair, Aaron Courville, Yoshua Bengio - 2014 [paper](https://arxiv.org/a
 * pytorch-generative-adversarial-networks - devnag [github](https://github.com/devnag/pytorch-generative-adversarial-networks/blob/master/gan_pytorch.py)
 * GAN using PyTorch for Goodfellow paper [github](https://github.com/devnag/pytorch-generative-adversarial-networks)
 * GAN using PyTorch for MNIST [github](https://github.com/prcastro/pytorch-gan)
+* Tensowflow Tutoral - Gan - Golbin [github](https://github.com/golbin/TensorFlow-Tutorials/tree/master/09%20-%20GAN)
 
 ## DCGAN
 
