@@ -18,8 +18,11 @@
 
 * Understanding Convolutional Neural Networks for NLP - Denny Britz [blog](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
-## RNN, LSTM
+## GAN
 
+* Generative Adversarial Network and its Applications to Speech Signal and Natural Language Processing [article](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)
+
+## RNN, LSTM
 
 ## References
 

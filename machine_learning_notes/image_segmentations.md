@@ -58,15 +58,19 @@
 
 ## CRF
 
-* Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials - 2012 [paper](https://arxiv.org/abs/1210.5644)
-* Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials [paper](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide15.pdf)
-* An Introduction to Conditional Random Fields [paper](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
-* Learning Deconvolution Network for Semantic Segmentation - 2015 [paper](https://arxiv.org/abs/1505.04366)
-* Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016 [paper](https://arxiv.org/abs/1412.7062)
-* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/abs/1606.00915)
-* CRF - #2 DeepLab - 라온피플 [blog](https://laonple.blog.me/221017461464)
-* DeepLab - 라온피플 [blog](https://laonple.blog.me/221000648527)
+* An Introduction to Conditional Random Fields [tutorial](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 
-## Mean Field Approximation 
+### CRF Releanted Works
 
-* A Theory of Mean Field Approximation - ???? [paper](https://papers.nips.cc/paper/1604-a-theory-of-mean-field-approximation.pdf)
+- Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials - 2012 [paper](https://arxiv.org/abs/1210.5644)
+- Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials [paper](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide15.pdf)
+- Learning Deconvolution Network for Semantic Segmentation - 2015 [paper](https://arxiv.org/abs/1505.04366)
+- Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs - 2016 [paper](https://arxiv.org/abs/1412.7062)
+- DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs - 2017 [paper](https://arxiv.org/abs/1606.00915)
+- CRF - #2 DeepLab - 라온피플 [blog](https://laonple.blog.me/221017461464)
+- DeepLab - 라온피플 [blog](https://laonple.blog.me/221000648527)
+
+## Mean Field Approximation
+
+- A Theory of Mean Field Approximation - ???? [paper](https://papers.nips.cc/paper/1604-a-theory-of-mean-field-approximation.pdf)
+

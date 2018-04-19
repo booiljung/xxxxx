@@ -21,3 +21,5 @@
 * Reinforcement Learning - SanghyukChun [blog](http://sanghyukchun.github.io/76/)
 * AlphaGo의 알고리즘과 모델 - SanghyukChun [blog](http://sanghyukchun.github.io/97/)
 * Reinforcement Learning (DQN) tutorial - PyTorch Tutorial [official site](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+* Neural Architecture Search with Reinforcement Learning - [Barret Zoph](https://arxiv.org/search?searchtype=author&query=Barret+Zoph), 
+  [Quoc V. Le] - 2016 (https://arxiv.org/search?searchtype=author&query=Quoc+V.+Le) [paper](https://arxiv.org/abs/1611.01578)
