@@ -26,6 +26,7 @@
 * [Image Corrections](image_corrections.md)
 * [3D Shapes](3d_shapes.md)
 * [Pose Recognitions](pose_recognitions.md)
+* [Face](face.md)
 * [Recommand Systems](recommandation_systems.md)
 * [NLP: Natural Language Processing](natural_language_processing.md)
 * [Speech Separations](speech_separations.md)
