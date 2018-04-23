@@ -20,7 +20,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 100%;
+  width: 90%;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -38,25 +38,25 @@ li {
   line-height: 1.4;
 }
 
-/*
-  Header, <header>
-  header   - container
+/* Header, <header>
+   header   - container
+   h1       - project name
+   h2       - project description
 */
 
 header {
   background: $body-background url("../_site_images/code.png") 0 0; 
   /*background: rgba(0, 0, 0, 0.1);*/
   width: 100%;
-  max-width: 1000px; 
   border-bottom: 1px dashed $conifer; //header;
   padding: 10px 0;
-  margin: 20px 20px 20px 20px;
+  margin: 0 0 20px 0;
 }
 
 header h1 {
   font-size: 22px;
   line-height: 1.5;
-  margin: 0 0 0 0;
+  margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
@@ -72,42 +72,6 @@ header h1:before {
 }
 
 header h2 {
-  font-size: 20px;
-}
-
-/*
-  footer, <footer>
-  footer   - container
-*/
-
-footer {
-  background: $body-background url("../_site_images/code.png") 0 0; 
-  /*background: rgba(0, 0, 0, 0.1);*/
-  width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
-  padding: 10px 0;
-  margin: 20px 20px 20px 20px;
-}
-
-footer h1 {
-  font-size: 22px;
-  line-height: 1.5;
-  margin: 0 0 0 0;
-  font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
-}
-
-footer h1:before {
-  font-size: 22px;
-}
-
-footer h2 {
   font-size: 20px;
 }
 
