@@ -38,7 +38,7 @@
 
   <body>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117607984-2"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -50,20 +50,8 @@
 
     <header background="../_site_images/code.png">
       <div class="container">
-
         <h2><a href="/">{{ site.title | default: site.github.repository_name }}</a></h2>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <!--
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-        -->
-
       </div>
     </header>
 
@@ -84,8 +72,8 @@
       </script>
     {% endif %}
 
-    <head background="../_site_images/code.png">
-      <div class="head">
+    <header background="../_site_images/code.png">
+      <div class="container">
         <hr>
         <p>
           이 블로그 게시물의 저작권은 저자에게 있으며, 허락없이 복사, 전제할 수 없습니다. 게시물을 이용하고 발생한 이익과 손해에 대해 저자는 어떠한 보상을 받거나 책임을 지지 않습니다.
