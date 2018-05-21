@@ -3,5 +3,5 @@ description: SOFTWARE | GAMES & GRAPHICS | MACHINE LEARNING | COMPUTER VISION ì—
 show_downloads: false
 google_analytics:
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 encoding: utf-8
