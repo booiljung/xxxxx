@@ -22,6 +22,7 @@
 * [Image to Image](image_to_image.md)
 * [Reconstructions](reconstructions.md)
 * [Image Segmentations](image_segmentations.md)
+* [Image Keypoint Recognition](image_keypoint_recognition.md)
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Image Corrections](image_corrections.md)
 * [3D Shapes](3d_shapes.md)

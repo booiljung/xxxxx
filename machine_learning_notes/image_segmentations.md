@@ -74,3 +74,6 @@
 
 - A Theory of Mean Field Approximation - ???? [paper](https://papers.nips.cc/paper/1604-a-theory-of-mean-field-approximation.pdf)
 
+# Facebook
+
+- Facebook Detection [article](https://facebook.ai/developers/tools/detectron)

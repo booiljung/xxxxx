@@ -3,7 +3,7 @@
 # Auto-Encoders
 
 * Auto-Encoder - 1986
-* Auto-Encoder #1 - 라온피플 [blog](https://laonple.blog.me/220850892431)
+* Auto-Encoder #1 - 라온피플 [blog](https://laonple.blog.me/220880813236)
 * Auto-Encoder #2 - 라온피플 [blog](https://laonple.blog.me/220884698923)
 * Auto Encoder 에 대하여 : Auto Encoder 의 개념과 사용법, 그리고 Regularization - Jayne.who [blog](http://jaynewho.com/post/9)
 * Introduction Auto-Encoder [WikiDocs](https://wikidocs.net/3413)
